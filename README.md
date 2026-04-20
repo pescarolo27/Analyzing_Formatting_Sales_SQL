@@ -6,8 +6,4 @@
 - Find the top 5 products from each category based on highest total sales.
 - Calculate the quantity for orders with missing values in the `quantity` column by determining the unit price for each `product_id` using available order data, considering relevant pricing factors such as discount, market, or region. Then, use this unit price to estimate the missing quantity values.
 
-Note that the accompanying dataset was unable to be retrieved from the platform in which the project originated.
-
--------------------------------------------------------------------------------------------------------------------------------
-
-Machine learning was not applied in this project.
+The project was done in September, 2025. Note that the accompanying dataset was unable to be retrieved from the platform in which the project originated. Machine learning was not applied in this project.
